@@ -16,7 +16,7 @@ I'm a **cybersecurity enthusiast**, **Python developer**, and **tech explorer** 
 🐍 Python • 🌐 HTML/CSS/JS • 🗄️ SQL • 🕹️ LUA • 💾 Bash • ☕ Java • ⚙️ C  
 
 **Security & DevOps:**  
-🐧 (Kali) Linux • 🐋 Docker • 🍊 Raspberry Pi  
+🐧 (Kali) Linux • 🐋 Docker • ⚓ Kubernetes • 🍊 Raspberry Pi  
 
 ---
 
@@ -39,4 +39,4 @@ I'm a **cybersecurity enthusiast**, **Python developer**, and **tech explorer** 
 
 ---
 
-⭐ _“Automate everything. Secure what you automate.”_
+⭐ _“Fueled caffeine, powered by passion”_
