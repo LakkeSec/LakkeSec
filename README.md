@@ -39,4 +39,4 @@ I'm a **cybersecurity enthusiast**, **Python developer**, and **tech explorer** 
 
 ---
 
-⭐ _“Fueled caffeine, powered by passion”_
+⭐ _“Fueled by caffeine, powered by passion”_
