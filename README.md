@@ -28,6 +28,7 @@ I'm a **cybersecurity enthusiast**, **Python developer**, and **tech explorer** 
 | **Pyt - The Dino Bot** | A Discord bot for collecting dinosaurs |
 | **PANDA AI** | AI assistant that helps you learn using your own courses |
 | **PlsNoAi** | Chrome extension that blocks AI summaries |
+| **Project Pathfinder** | BLE beacon with triangulation app for indoor navigation |
 
 > 🔒 Most of my projects are private — but I might make some public soon!
 
